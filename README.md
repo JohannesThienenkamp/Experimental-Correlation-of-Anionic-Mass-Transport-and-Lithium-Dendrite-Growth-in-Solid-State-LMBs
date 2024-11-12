@@ -14,5 +14,5 @@ How to use the MATLab Code - Step-by-Step
 
 Thank you for using the MATLab code.
 
-Johannes Helmut Thienenkamp
+J. Thienenkamp, G. Brunklaus
 
